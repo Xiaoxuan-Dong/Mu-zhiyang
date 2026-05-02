@@ -1,5 +1,9 @@
 ## Hi there 👋
+# Xiaoxuan Dong
 
+I am a student at University of Electronic Science and Technology of China (UESTC).
+
+Email: 202522010524@std.uestc.edu.cn
 <!--
 **Mu-zhiyang/Mu-zhiyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
